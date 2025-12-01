@@ -24,6 +24,7 @@ p {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  padding: 30px 0;
 }
 
 .nav {
@@ -195,11 +196,13 @@ p {
 }
 
 .recipes__video-caption_text_first {
+  margin: 0;
   display: flex;
   column-gap: 220px;
 }
 
 .recipes__video-caption_text_second {
+  margin: 0;
   display: flex;
-  column-gap: 150px;
+  column-gap: 140px;
 }
