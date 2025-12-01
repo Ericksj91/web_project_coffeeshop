@@ -114,7 +114,7 @@ p {
   color: #838383;
 }
 
-.header__footer_address {
+.header__paragraph {
   display: flex;
   align-self: flex-end;
 }
